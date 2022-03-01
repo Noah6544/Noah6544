@@ -8,7 +8,7 @@
   - Everything I can. "Forever a begineer" mentality
 #### Fun facts
   - I play guitar
-  - I make 3d "art" in blender
+  - I make 3d models and renders in blender.
   - I make edits
   - I did vfx a few years ago
   - I play rocket league (d3)
