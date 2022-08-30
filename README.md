@@ -6,7 +6,3 @@
 - Projects I've contributed to
 - Projects I've completed
 - Quick fun facts
-
-
-```html
-index.html
