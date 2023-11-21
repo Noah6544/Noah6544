@@ -1,7 +1,3 @@
-## Check out my [portfolio website](https://noahbuchanan.me/)!
-### Here you can find out more information about me such as:
-- My motivations/passions 
-- My notable projects
-- My experience
-- Fun facts
-- Contact info
+Hey, honestly, I have no idea what I'm doing or what programming is, so I'm just making this up as I go and following my curiosity :sunglasses:
+<br>I might make some mistakes, but that's alright.
+<br>Check out my [website](https://noahbuchanan.me/) for more info about me.
