@@ -1,3 +1,19 @@
-Hey! Thanks for checking out my github page.
-<br>Check out my [website](https://noahbuchanan.me/) for more info about me.
-<br>*$$ from coding so far: $1900*
+<h4>Hey! Thanks for checking out my github page.</h4>
+Check out my [website](https://noahbuchanan.me/) for more info about me.
+
+<h4> __$$ from coding so far: $1900__ </h4>
+
+<h4>Stuff I've Learned:</h4>
+
+- Python
+  - Django
+  - OpenCV
+- Basic WebDev (Html, Css, Js)
+- Basic Java 
+<h4>Stuff I'm Learning:</h4>
+
+- TailWindCss
+<h4>Stuff I want to Learn:</h4>
+
+- React
+- Flutter
