@@ -1,4 +1,5 @@
 <h4>Hey! Thanks for checking out my github page.</h4>
+
 Check out my [website](https://noahbuchanan.me/) for more info about me.
 
 *<h4> $$ from coding so far: $1900 </h4>*
