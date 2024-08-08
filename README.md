@@ -9,7 +9,7 @@ __Check out my ***[website](https://noahbuchanan.me/)*** for more info about me.
 - Python
   - Django
   - OpenCV
-- WebDev (Html, Css, Js)
+- WebDev (Django, Html, Css, Js)
 - Basic Java 
 <h4>Stuff I'm Learning:</h4>
 
