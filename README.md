@@ -1,8 +1,6 @@
-<h4>Hey! Thanks for checking out my github page.</h4>
+Hey! Thanks for checking out my github page. Please check out my ***[website](https://noahbuchanan.me/)*** for more info about me.
 
-__Check out my ***[website](https://noahbuchanan.me/)*** for more info about me.__
-
-*<h4> $$ from coding so far: $1900*\* </h4>
+*$$ from coding so far: $1900*
 
 <h4>Stuff I've Learned:</h4>
 
@@ -12,7 +10,7 @@ __Check out my ***[website](https://noahbuchanan.me/)*** for more info about me.
 - WebDev (Django, Html, Css, TailWindCss Js)
 - Basic Java 
 <h4>Stuff I'm Learning:</h4>
-
+- How to be a successful college student!
 <h4>Stuff I want to Learn:</h4>
 
 - React
