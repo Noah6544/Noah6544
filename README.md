@@ -9,12 +9,10 @@ __Check out my ***[website](https://noahbuchanan.me/)*** for more info about me.
 - Python
   - Django
   - OpenCV
-- WebDev (Django, Html, Css, Js)
+- WebDev (Django, Html, Css, TailWindCss Js)
 - Basic Java 
 <h4>Stuff I'm Learning:</h4>
 
-- TailWindCss
-- MatLab (??)
 <h4>Stuff I want to Learn:</h4>
 
 - React
