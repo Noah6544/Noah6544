@@ -15,3 +15,5 @@ Hey! Thanks for checking out my github page. Please check out my ***[website](ht
 
 - React
 - Flutter
+
+<a href="https://www.buymeacoffee.com/Parthjadhav" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" width="100" ></a>
