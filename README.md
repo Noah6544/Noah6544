@@ -1,6 +1,6 @@
 Hey! Thanks for checking out my github page. Please check out my ***[website](https://noahbuchanan.me/)*** for more info about me.
 
-*$$ from coding so far: $1900*
+*$$ from coding so far: $2,300*
 
 <h4>Stuff I've Learned:</h4>
 
