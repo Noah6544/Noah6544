@@ -3,8 +3,9 @@ Hey! Thanks for checking out my github page. Please check out my ***[website](ht
 *$$ from coding so far: $2,300*
 
 <h4>April 2025:</h4>
+
 - I'm working on a 1 week project with <a href="https://github.com/leapingturtlefrog">leapingturtlefrog.</a>
-<br>- We're going to polish and demo the project April 19th @Shipathon with StartupExchange @GT
+- We're going to polish and demo the project April 19th @Shipathon with StartupExchange @GT
 <h4>I've Learned:</h4>
 
 - Python
@@ -13,8 +14,10 @@ Hey! Thanks for checking out my github page. Please check out my ***[website](ht
 - WebDev (Django, Html, Css, TailWind, Js)
 - Basic Java 
 <h4>I'm Learning:</h4>
+
 - How to be a successful college student!
 <h4>I want to Learn:</h4>
+
 - Electron
 - React
 - Flutter
