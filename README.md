@@ -1,4 +1,4 @@
-Hey! Thanks for checking out my github page. Please check out my ***[website](https://noahbuchanan.me/)*** for more info about me.
+Hey! Thanks for checking out my github page. Please check out my ***[website](https://noahbuchanan.com/)*** for more info about me.
 
 *$$ from coding so far: $2,300*
 
