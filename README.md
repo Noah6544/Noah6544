@@ -1,7 +1,5 @@
 Hey! Thanks for checking out my github page. Please check out my ***[website](https://noahbuchanan.com/)*** for more info about me.
 
-*$$ from coding so far: $2,300*
-
 <h4>I've Learned:</h4>
 
 - Python
